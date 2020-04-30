@@ -1,4 +1,4 @@
-# WP-iMember360-Login-Logout
+# WP-iMember360-Login
 
 This repo introduces the hooks to login/logout in iMember360 Wordpress plugin.
 
