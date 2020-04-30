@@ -19,7 +19,7 @@ is an array containing the contact record fields for the person who just logged 
 ```bash
 <?php
 function my_i4w_authenticated_login($wp_user, $contact) {
-  // Sending an Email to logged in user
+  	// Sending an Email to logged in user
 	$to = $wp_user->email;
 
 	$subject = 'Login Notification';
